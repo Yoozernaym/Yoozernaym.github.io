@@ -11,8 +11,12 @@ Some of my skills include:
 
 ### Take a look at some projects I have done.
 
-I made this one to practice data visualization and learn Plotly Dash:
+Here is one of my semester projects:
+(https://github.com/Yoozernaym/healthinsurancePlotlyDash/blob/master/app.py)
+I made this to practice Python and to learn data visualization with Plotly Dash.
 
-Here is a project I made to practice with JavaScript and learn D3js, displaying data in graphs and in a data table:
+I also attempted to remake this project using D3js to practice with JavaScript.
 (https://yoozernaym.github.io/healthinsuranceD3js/)
+
+[My LinkedIn](https://www.linkedin.com/in/willem-gardner-064160181/)
 
