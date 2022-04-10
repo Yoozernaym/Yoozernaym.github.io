@@ -11,5 +11,5 @@ Some of my skills include:
 ### Take a look at some projects I have done.
 
 I made this one to practice data visualization and learn Plotly Dash:
-[Here is a project I made to practice with JavaScript and learn D3js] (https://yoozernaym.github.io/healthinsuranceD3js/)
+[Here is a project I made to practice with JavaScript and learn D3js](https://yoozernaym.github.io/healthinsuranceD3js/)
 
