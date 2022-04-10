@@ -1,6 +1,6 @@
 # Welcome to Willem's Github Page
 
-## ![GMU logo](https://brand.gmu.edu/sites/g/files/yyqcgq151/files/2020-08/downloads_logos.jpg) 
+## ![GMU logo](https://library.gmu.edu/img/mason-logo.png) 
 
 Hi, I am a currently studying for my M.S. in Health Informatics with concentration in Data Analytics.
 
@@ -10,6 +10,7 @@ Some of my skills include:
 - JavaScript
 - SQL
 - Tableau
+- Microsoft Excel
 
 ### Take a look at some projects I have done.
 
