@@ -1,6 +1,8 @@
 # Welcome to Willem's Github Page
 
-## ![GMU logo](https://patriotweb.gmu.edu/img/gmulogo2.gif) Hi, I am a currently studying for my M.S. in Health Informatics with concentration in Data Analytics.
+## ![GMU logo](https://brand.gmu.edu/sites/g/files/yyqcgq151/files/2020-08/downloads_logos.jpg) 
+
+Hi, I am a currently studying for my M.S. in Health Informatics with concentration in Data Analytics.
 
 Some of my skills include:
 
@@ -18,5 +20,6 @@ Some of my skills include:
 The first is one of my semester projects, I made it to practice Python and to learn data visualization with Plotly Dash. 
 I also attempted to remake this project using D3js to practice with JavaScript. 
 
+I am open to any job opportunities related to Health Informatics/Data Analysis.
 [My LinkedIn](https://www.linkedin.com/in/willem-gardner-064160181/)
 
