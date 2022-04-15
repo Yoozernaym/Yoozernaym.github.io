@@ -14,13 +14,14 @@ Some of my skills include:
 
 ### Take a look at some projects I have done.
 
-- [PlotlyDash](https://github.com/Yoozernaym/healthinsurancePlotlyDash/blob/master/app.py)
-- [D3js](https://yoozernaym.github.io/healthinsuranceD3js/)
+- [HealthInsurancePlotlyDash](https://github.com/Yoozernaym/healthinsurancePlotlyDash/blob/master/app.py)
+- [HealthInsuranceD3js](https://yoozernaym.github.io/healthinsuranceD3js/)
 
  
-The first is one of my semester projects, I made it to practice Python and to learn data visualization with Plotly Dash. 
-I also attempted to remake this project using D3js to practice with JavaScript. 
+The first is one of my semester projects, I use Python to retrieve health insurance data from the U.S. Census Bureau Small Area Health Insurance Estimates API at [Census.gov](https://www.census.gov/data/developers/data-sets/Health-Insurance-Statistics.html) and use the [Plotly Dash](https://dash.plotly.com/) Python library for data visualization in various charts and a data table in a single page application.
 
-I am open to any job opportunities related to Health Informatics/Data Analysis.
+The second is my attempt to remake this project using D3js to practice with JavaScript. 
+
+I am open to any job opportunities related to Health Informatics/Data Analysis. I am also open to job opportunities related to development with Python or JavaScript, I am very willing and eager to learn new things as well.
 [My LinkedIn](https://www.linkedin.com/in/willem-gardner-064160181/)
 
